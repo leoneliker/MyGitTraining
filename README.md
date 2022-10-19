@@ -1,5 +1,6 @@
 Buenos dias, el profe tiene merch de github
 
+Ya sabemos usar git, mas menos, esta bien esta wea
 
 # Learn `git` concepts, not commands
 
